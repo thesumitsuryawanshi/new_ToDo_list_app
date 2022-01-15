@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/nav_graph"
+    app:startDestination="@id/f_Home">
+
+    <fragment
+        android:id="@+id/f_Home"
+        android:name="com.example.todolistassignment.fragments.F_Home"
+        android:label="fragment_f__home"
+        tools:layout="@layout/fragment_f__home" >
+        <action
+            android:id="@+id/action_f_Home_to_f_Tasks"
+            app:destination="@id/f_Tasks" />
+    </fragment>
+    <fragment
+        android:id="@+id/f_Tasks"
+        android:name="com.example.todolistassignment.fragments.F_Tasks"
+        android:label="fragment_f__tasks"
+        tools:layout="@layout/fragment_f__tasks" />
+
+</navigation>

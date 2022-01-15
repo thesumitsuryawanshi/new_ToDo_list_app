@@ -1,0 +1,14 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.example.todolistassignment.MainActivity">
+
+
+    <item
+        android:id="@+id/mi_Dark_mode"
+        android:title="Switch"
+        android:icon="@drawable/ic_baseline_dark_mode_24"
+        app:actionViewClass="androidx.appcompat.widget.SwitchCompat"
+        app:showAsAction="always" />
+
+</menu>

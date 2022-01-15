@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/sumit/AndroidStudioProjects/ToDolistassignment/app/src/main/res/drawable-v24/bgroundbottom.xml" value="0.25833333333333336" />
+        <entry key="..\:/Users/sumit/AndroidStudioProjects/ToDolistassignment/app/src/main/res/drawable-v24/bgroundtop.xml" value="0.25833333333333336" />
+        <entry key="..\:/Users/sumit/AndroidStudioProjects/ToDolistassignment/app/src/main/res/drawable-v24/ic_baseline_mail_outline_24.xml" value="0.25833333333333336" />
+        <entry key="..\:/Users/sumit/AndroidStudioProjects/ToDolistassignment/app/src/main/res/drawable-v24/ic_baseline_person_outline_24.xml" value="0.25833333333333336" />
+        <entry key="..\:/Users/sumit/AndroidStudioProjects/ToDolistassignment/app/src/main/res/drawable-v24/ic_baseline_phone_24.xml" value="0.25833333333333336" />
+        <entry key="..\:/Users/sumit/AndroidStudioProjects/ToDolistassignment/app/src/main/res/drawable/ic_baseline_person_pin_24.xml" value="0.25833333333333336" />
+        <entry key="..\:/Users/sumit/AndroidStudioProjects/ToDolistassignment/app/src/main/res/layout/activity_home.xml" value="0.2" />
+        <entry key="..\:/Users/sumit/AndroidStudioProjects/ToDolistassignment/app/src/main/res/layout/activity_main.xml" value="0.4510184287099903" />
+        <entry key="..\:/Users/sumit/AndroidStudioProjects/ToDolistassignment/app/src/main/res/layout/add_task_layout.xml" value="0.2421875" />
+        <entry key="..\:/Users/sumit/AndroidStudioProjects/ToDolistassignment/app/src/main/res/layout/content_main.xml" value="0.2421875" />
+        <entry key="..\:/Users/sumit/AndroidStudioProjects/ToDolistassignment/app/src/main/res/layout/f_home.xml" value="0.264" />
+        <entry key="..\:/Users/sumit/AndroidStudioProjects/ToDolistassignment/app/src/main/res/layout/f_login.xml" value="0.72" />
+        <entry key="..\:/Users/sumit/AndroidStudioProjects/ToDolistassignment/app/src/main/res/layout/fragment_f__home.xml" value="0.2421875" />
+        <entry key="..\:/Users/sumit/AndroidStudioProjects/ToDolistassignment/app/src/main/res/layout/fragment_f__tasks.xml" value="0.2421875" />
+        <entry key="..\:/Users/sumit/AndroidStudioProjects/ToDolistassignment/app/src/main/res/layout/fragment_first.xml" value="0.264" />
+        <entry key="..\:/Users/sumit/AndroidStudioProjects/ToDolistassignment/app/src/main/res/layout/fragment_login.xml" value="0.536" />
+        <entry key="..\:/Users/sumit/AndroidStudioProjects/ToDolistassignment/app/src/main/res/layout/fragment_second.xml" value="0.2421875" />
+        <entry key="..\:/Users/sumit/AndroidStudioProjects/ToDolistassignment/app/src/main/res/layout/fragment_signup.xml" value="0.536" />
+        <entry key="..\:/Users/sumit/AndroidStudioProjects/ToDolistassignment/app/src/main/res/layout/rv_tasks.xml" value="0.536" />
+        <entry key="..\:/Users/sumit/AndroidStudioProjects/ToDolistassignment/app/src/main/res/layout/rv_user_item_list.xml" value="0.44616467276565797" />
+        <entry key="..\:/Users/sumit/AndroidStudioProjects/ToDolistassignment/app/src/main/res/menu/btm_navbar_menu.xml" value="0.2421875" />
+        <entry key="..\:/Users/sumit/AndroidStudioProjects/ToDolistassignment/app/src/main/res/menu/menu_main.xml" value="0.2421875" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
